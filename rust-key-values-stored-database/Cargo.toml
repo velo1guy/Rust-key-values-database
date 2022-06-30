@@ -1,0 +1,11 @@
+[package]
+name = "rust-key-values-stored-database"
+version = "0.1.0"
+edition = "2021"
+description = "A simple program I made following along with Ryan Levick's livestreams. I plan on making it capable of storing duplicate key's as iterations and make the program more robust as a whole as time goes on. Doing some python automation for now though :)"
+repository = "https://github.com/velo1guy/rust-key-values-stored-database"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
